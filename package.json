@@ -1,0 +1,14 @@
+{
+  "name": "screenshot-wizard",
+  "version": "0.0.1",
+  "description": "Screen capture script",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Rumen Petrov",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.14.0"
+  }
+}
