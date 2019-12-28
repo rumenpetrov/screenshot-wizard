@@ -1,2 +1,2 @@
 # screenshot-wizard
-Screen capture script
+ Puppeteer powered script that captues screens
