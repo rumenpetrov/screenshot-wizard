@@ -9,7 +9,7 @@
   "author": "Rumen Petrov",
   "license": "ISC",
   "dependencies": {
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "puppeteer": "^1.14.0"
   }
 }
